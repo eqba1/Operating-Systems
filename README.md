@@ -1,2 +1,2 @@
 # Operating-Systems
-calling floppy_disk stopwatch | Operating Systems Course UOK
+🖥💎 | Operating Systems Course UOK
